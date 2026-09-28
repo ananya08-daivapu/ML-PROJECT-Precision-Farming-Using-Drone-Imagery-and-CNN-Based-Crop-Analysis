@@ -19,10 +19,10 @@ print("Pandas version:", pd.__version__)
 
 # Create a sample dataset
 data = {
-    "Name": ["Ananya", "Rahul", "Priya", "Arjun", "Sneha"],
+    "Name": ["Ananya", "Kumar", "Arjun", "Priya", "Sneha"],
     "Age": [20, 21, 19, 22, 20],
     "CGPA": [9.2, 8.5, 9.0, 7.8, 8.9],
-    "Department": ["CSE", "ECE", "CSE", "IT", "CSE"]
+    "Department": ["IT", "ECE", "CSE", "IT", "CSE"]
 }
 
 # Convert dictionary into DataFrame
